@@ -1,0 +1,17 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente / credenciais
+.env
+
+# Relatórios gerados
+cypress/reports/
+cypress/screenshots/
+cypress/videos/
+
+# Logs
+logs/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
