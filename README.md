@@ -47,8 +47,7 @@ npx cypress run
 
 ## Relatórios
 
-Os testes utilizam Mochawesome para geração dos relatórios.
-
+Os testes utilizam Mochawesome para geração dos relatórios
 O relatório também pode ser enviado automaticamente por e-mail.
 
 ## Configuração do e-mail
